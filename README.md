@@ -7,6 +7,7 @@ Awesome projects
 
 #### Strings
  * https://github.com/asaskevich/govalidator
+   * validators and sanitizers for strings, numerics, slices and structs
 
 #### IP
 * https://github.com/wangtuanjie/ip17mon
