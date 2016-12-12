@@ -13,4 +13,4 @@ Awesome projects
 * https://github.com/wangtuanjie/ip17mon
  * http://www.ipip.net/ 的非官方Golang库
 * https://github.com/oschwald/geoip2-golang
- * MaxMind GeoIP2 的非官方Golang库
+ * https://www.maxmind.com/zh/home 的非官方Golang库
