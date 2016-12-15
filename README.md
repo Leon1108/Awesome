@@ -3,9 +3,12 @@ Awesome projects
 
 ## Golang
 
-### Libs
+### Frameworks
 #### CLI
   * https://github.com/urfave/cli
+
+#### Web
+ * https://github.com/astaxie/beego
 
 ### Utils
 
