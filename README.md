@@ -26,3 +26,4 @@ Awesome projects
  * http://patorjk.com/software/taag
  * http://www.network-science.de/ascii/
  * http://www.asciiworld.com/index.html
+ * http://www.degraeve.com/img2txt.php
