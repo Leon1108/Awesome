@@ -1,6 +1,11 @@
 # Awesome
 Awesome projects
 
+## Shell
+#### JSON Parser
+ * https://stedolan.github.io/jq/
+
+
 ## Golang
 
 ### Frameworks
