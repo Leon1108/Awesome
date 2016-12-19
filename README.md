@@ -4,6 +4,7 @@ Awesome projects
 ## Shell
 #### JSON Parser
  * https://stedolan.github.io/jq/
+ * JSON=>CSV https://github.com/archan937/jsonv.sh
 
 
 ## Golang
