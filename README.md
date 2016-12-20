@@ -8,7 +8,8 @@ Awesome projects
 
 #### JSON => CSV
  * `jq -r '[xxx]|@csv'` [>>>](http://stackoverflow.com/questions/25558456/how-can-i-convert-my-json-to-csv-using-jq)
-
+ * bash [>>>](http://unix.stackexchange.com/questions/140674/convert-json-mapping-object-to-managed-csv-row-using-bash-script)
+ * https://github.com/jehiah/json2csv
 
 ## Golang
 
