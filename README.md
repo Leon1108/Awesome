@@ -21,7 +21,9 @@ Awesome projects
  * https://github.com/astaxie/beego
 
 ### Utils
-
+#### File System Wather
+ * [fsnotify](https://github.com/fsnotify/fsnotify)
+ 
 #### Strings
  * https://github.com/asaskevich/govalidator
    * validators and sanitizers for strings, numerics, slices and structs
