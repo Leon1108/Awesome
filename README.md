@@ -23,6 +23,7 @@ Awesome projects
 ### Utils
 #### File System Wather
  * [fsnotify](https://github.com/fsnotify/fsnotify)
+  * 在MacOS上的一个问题，监听指定文件时，只收到RENAME事件 [issues#31](https://github.com/fsnotify/fsnotify/issues/31)
  
 #### Strings
  * https://github.com/asaskevich/govalidator
