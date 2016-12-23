@@ -1,5 +1,7 @@
 # Awesome
 Awesome projects
+ * [github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
+ * [go.libhunt.com](https://go.libhunt.com/)
 
 ## Shell
 #### JSON Parser
