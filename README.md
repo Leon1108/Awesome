@@ -37,6 +37,9 @@ Awesome projects
 * https://github.com/oschwald/geoip2-golang
  * https://www.maxmind.com/zh/home 的非官方Golang库
 
+### Data
+ * [DataFrames, Series and Data Wrangling for Go](https://github.com/kniren/gota)
+
 ## ASCII Text & Image
  * http://patorjk.com/software/taag
  * http://www.network-science.de/ascii/
