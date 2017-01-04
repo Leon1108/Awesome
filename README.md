@@ -42,7 +42,7 @@ Awesome projects
  * [DataFrames, Series and Data Wrangling for Go](https://github.com/kniren/gota)
 
 ## NLP
-* https://github.com/hankcs/HanLP
+* https://github.com/hankcs/HanLP 汉语言处理包，Java
 
 ## ASCII Text & Image
  * http://patorjk.com/software/taag
