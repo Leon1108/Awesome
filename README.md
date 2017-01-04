@@ -32,9 +32,6 @@ Awesome projects
  * https://github.com/asaskevich/govalidator
    * validators and sanitizers for strings, numerics, slices and structs
 
-#### NLP
-* https://github.com/hankcs/HanLP
-
 #### IP
 * https://github.com/wangtuanjie/ip17mon
  * http://www.ipip.net/ 的非官方Golang库
@@ -43,6 +40,9 @@ Awesome projects
 
 ### Data
  * [DataFrames, Series and Data Wrangling for Go](https://github.com/kniren/gota)
+
+## NLP
+* https://github.com/hankcs/HanLP
 
 ## ASCII Text & Image
  * http://patorjk.com/software/taag
