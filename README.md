@@ -2,7 +2,8 @@
 Awesome projects
  * [github.com/avelino/awesome-go](https://github.com/avelino/awesome-go)
  * [go.libhunt.com](https://go.libhunt.com/)
-
+ * [lk-geimfari/awesomo](https://github.com/lk-geimfari/awesomo) 多种语言的有趣的开源项目
+ 
 ## Shell
 #### JSON Parser
  * https://stedolan.github.io/jq/
@@ -30,6 +31,9 @@ Awesome projects
 #### Strings
  * https://github.com/asaskevich/govalidator
    * validators and sanitizers for strings, numerics, slices and structs
+
+#### NLP
+* https://github.com/hankcs/HanLP
 
 #### IP
 * https://github.com/wangtuanjie/ip17mon
