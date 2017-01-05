@@ -15,6 +15,8 @@ Awesome projects
  * https://github.com/jehiah/json2csv
 
 ## Golang
+### Translator
+* [grumpy](https://github.com/google/grumpy) Python to Golang by Google
 
 ### Frameworks
 #### CLI
