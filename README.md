@@ -43,6 +43,9 @@ Awesome projects
 ### Data
  * [DataFrames, Series and Data Wrangling for Go](https://github.com/kniren/gota)
 
+### KV 
+ * https://github.com/boltdb/bolt 嵌入式KV存储
+ 
 ## NLP
 * https://github.com/hankcs/HanLP 汉语言处理包，Java
 
