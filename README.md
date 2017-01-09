@@ -40,6 +40,9 @@ Awesome projects
 * https://github.com/oschwald/geoip2-golang
  * https://www.maxmind.com/zh/home 的非官方Golang库
 
+#### 手机号码归属地
+* https://github.com/lovedboy/phone
+
 ### Data
  * [DataFrames, Series and Data Wrangling for Go](https://github.com/kniren/gota)
 
