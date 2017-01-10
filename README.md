@@ -21,6 +21,7 @@ Awesome projects
 ### Frameworks
 #### CLI
   * https://github.com/urfave/cli
+  * https://github.com/spf13/cobra
 
 #### Web
  * https://github.com/astaxie/beego
@@ -46,7 +47,11 @@ Awesome projects
 ### Data
  * [DataFrames, Series and Data Wrangling for Go](https://github.com/kniren/gota)
 
-### KV 
+### Database
+#### Time Series Database
+ * https://github.com/influxdata/influxdb
+
+#### KV 
  * https://github.com/boltdb/bolt 嵌入式KV存储
  
 ## NLP
