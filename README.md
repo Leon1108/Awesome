@@ -21,6 +21,9 @@ Awesome projects
 ### Translator
 * [grumpy](https://github.com/google/grumpy) Python to Golang by Google
 
+### Http Client
+* [GoRequest](https://github.com/parnurzeal/gorequest)
+
 ### Frameworks
 #### CLI
   * https://github.com/urfave/cli
