@@ -36,7 +36,11 @@ Awesome projects
 #### File System Wather
  * [fsnotify](https://github.com/fsnotify/fsnotify)
   * 在MacOS上的一个问题，监听指定文件时，只收到RENAME事件 [issues#31](https://github.com/fsnotify/fsnotify/issues/31)
- 
+
+#### JSON
+ * [gojsonschema](https://github.com/xeipuuv/gojsonschema) An implementation of JSON Schema, draft v4 - Go language
+ * [jsonschema](https://github.com/alecthomas/jsonschema) Generate JSON Schemas from Go types
+
 #### Strings
  * https://github.com/asaskevich/govalidator
    * validators and sanitizers for strings, numerics, slices and structs
@@ -50,7 +54,7 @@ Awesome projects
 #### 手机号码归属地
 * https://github.com/lovedboy/phone
 
-### Data
+### ML
  * [DataFrames, Series and Data Wrangling for Go](https://github.com/kniren/gota)
 
 ### Database
