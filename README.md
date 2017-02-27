@@ -66,7 +66,7 @@ Awesome projects
  
 #### Bridges
  * [otto](https://github.com/robertkrimen/otto) Package otto is a JavaScript parser and interpreter written natively in Go.
- 
+ * [GopherJS](https://github.com/gopherjs/gopherjs) A compiler from Go to JavaScript
 ## NLP
 * https://github.com/hankcs/HanLP 汉语言处理包，Java
 
