@@ -64,6 +64,9 @@ Awesome projects
 #### KV 
  * https://github.com/boltdb/bolt 嵌入式KV存储
  
+#### Bridges
+ * [otto](https://github.com/robertkrimen/otto) Package otto is a JavaScript parser and interpreter written natively in Go.
+ 
 ## NLP
 * https://github.com/hankcs/HanLP 汉语言处理包，Java
 
